@@ -30,14 +30,6 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)    
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![MATLAB](https://img.shields.io/badge/MATLAB%20-%23F7DF1E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-<br>   
-
-- **AI and ML Frameworks**:
-  
-    ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-%23F7DF1E.svg?style=for-the-badge&logo=openai&logoColor=white)
-    ![OpenCV](https://img.shields.io/badge/OpenCV%20-%23F7DF1E.svg?style=for-the-badge&logo=opencv&logoColor=white)
-    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 <br>
 
 - **Robotics**:
@@ -47,44 +39,23 @@
     ![Gazebo](https://img.shields.io/badge/Gazebo-%23F7DF1E.svg?style=for-the-badge&logo=gazebo&logoColor=white)
 <br>
 
+- **AI and ML Frameworks**:
+  
+    ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-%23F7DF1E.svg?style=for-the-badge&logo=openai&logoColor=white)
+    ![OpenCV](https://img.shields.io/badge/OpenCV%20-%23F7DF1E.svg?style=for-the-badge&logo=opencv&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+<br>
+
 - **Tools**:
   
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
 
-- **Others**:
-    ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-    ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-%230A66C2.svg?style=for-the-badge&logo=microsoft-office&logoColor=white)
-<br>
-
 </p>
 </details>
-
-<br><br>
-
------
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/KhAlamdar11">
-    <img src="https://github-stats-alpha.vercel.app/api?username=KhAlamdar11&cc=22272e&width=500px&tc=BD07F7&ic=fff&bc=0000">
-</a>
-
-<br>
-
-<a href="https://github.com/KhAlamdar11">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhAlamdar11&theme=dracula">
-</a>
-
-</div>
 
 <br><br>
 
@@ -123,7 +94,7 @@
 
 <div align='center'>
 
-## <b> "Fueling the future with pixels, algorithms, and innovative robotics solutions. Let's weave innovation into the fabric of technology! 🚀✨ #RoboInnovator" </b>
+## <b> "Exploring new frontiers in technology with cutting-edge robotics and AI solutions. Boldly innovating the future of autonomous, multi-robot, and aerial systems! 🚀✨" </b>
 
 </div>
 <br><br><br><br>
