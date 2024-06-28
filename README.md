@@ -4,8 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&random=false&width=435&lines=Robotics+Engineer" alt="Typing SVG" /></a>
 </p>
 
-<br>
-
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
 
 <br>
@@ -13,9 +11,6 @@
 - **Robotics Engineer**: Specializing in autonomous systems focusing on aerial vehicles and multi-robot systems.
 - **ROS Developer**: Creating reusable and efficient ROS packages for autonomous muli-agent systems.
 - **Constant Learner**: Constantly learning new things! Currently, I am trying to dive deeper into reinforcement learning for multi-agent systems!
-
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -57,11 +52,7 @@
 </p>
 </details>
 
-<br><br>
-
 -----
-
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 <br>
@@ -89,19 +80,15 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
 <div align='center'>
 
 ## <b> "Exploring new frontiers in technology with cutting-edge robotics and AI solutions. Boldly innovating the future of autonomous, multi-robot, and aerial systems! 🚀✨" </b>
 
 </div>
-<br><br><br><br>
+<br>
 
 ---
-
-<br>
 
 Readme Template Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
