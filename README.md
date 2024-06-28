@@ -25,14 +25,12 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)    
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![MATLAB](https://img.shields.io/badge/MATLAB%20-%23F7DF1E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-<br>
 
 - **Robotics**:
   
     ![ROS](https://img.shields.io/badge/ROS%20-%231E90FF.svg?style=for-the-badge&logo=ros&logoColor=white)
     ![ROS 2](https://img.shields.io/badge/ROS%202-%231E90FF.svg?style=for-the-badge&logo=ros&logoColor=white)
     ![Gazebo](https://img.shields.io/badge/Gazebo-%23F7DF1E.svg?style=for-the-badge&logo=gazebo&logoColor=white)
-<br>
 
 - **AI and ML Frameworks**:
   
@@ -40,14 +38,12 @@
     ![OpenCV](https://img.shields.io/badge/OpenCV%20-%23F7DF1E.svg?style=for-the-badge&logo=opencv&logoColor=white)
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
     ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-<br>
 
 - **Tools**:
   
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-<br>
 
 </p>
 </details>
