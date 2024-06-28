@@ -10,11 +10,10 @@
 
 <br>
 
-- **Robotics Engineer**: Specializing in aerial vehicles and multi-robot systems, with a focus on connectivity maintenance and disaster management.
+- **Robotics Engineer**: Specializing in autonomous systems focusing on aerial vehicles and multi-robot systems.
 - **ML Engineer**: Crafting innovation as a Machine Learning Engineer, developing advanced AI algorithms.
-- **Tech Savvy**: Developing expertise in Python, ROS, OpenCV, and more.
-- **Research Collaboration**: Excited to collaborate on visionary projects in robotics and AI. Let's innovate together!
-- **Lifelong Learner**: Continuously exploring new technologies and methodologies in robotics and AI.
+- **Constant Learner**: Constantly learning new things! Currently, I am trying to dive deeper into reinforcement learning for multi-agent systems!
+
 
 <br><br>
 
@@ -27,12 +26,14 @@
 <p align="center">
 
 - **Languages**:
+
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)    
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![MATLAB](https://img.shields.io/badge/MATLAB%20-%23F7DF1E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 <br>   
 
 - **AI and ML Frameworks**:
+  
     ![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-%23F7DF1E.svg?style=for-the-badge&logo=openai&logoColor=white)
     ![OpenCV](https://img.shields.io/badge/OpenCV%20-%23F7DF1E.svg?style=for-the-badge&logo=opencv&logoColor=white)
     ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -40,12 +41,14 @@
 <br>
 
 - **Robotics**:
+  
     ![ROS](https://img.shields.io/badge/ROS%20-%231E90FF.svg?style=for-the-badge&logo=ros&logoColor=white)
     ![ROS 2](https://img.shields.io/badge/ROS%202-%231E90FF.svg?style=for-the-badge&logo=ros&logoColor=white)
     ![Gazebo](https://img.shields.io/badge/Gazebo-%23F7DF1E.svg?style=for-the-badge&logo=gazebo&logoColor=white)
 <br>
 
 - **Tools**:
+  
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
