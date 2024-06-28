@@ -11,7 +11,7 @@
 <br>
 
 - **Robotics Engineer**: Specializing in autonomous systems focusing on aerial vehicles and multi-robot systems.
-- **ML Engineer**: Crafting innovation as a Machine Learning Engineer, developing advanced AI algorithms.
+- **ROS Developer**: Creating reusable and efficient ROS packages for autonomous muli-agent systems.
 - **Constant Learner**: Constantly learning new things! Currently, I am trying to dive deeper into reinforcement learning for multi-agent systems!
 
 
